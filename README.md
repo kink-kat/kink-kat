@@ -1,0 +1,3 @@
+- Hi, I'm [@kink-kat](https://github.com/kink-kat).
+- This account is for stuff I don't want to associate with a personal account.
+- I work on [Master Project](https://github.com/kink-kat/mp-server), whose name is [subject to change](https://static.wikia.nocookie.net/steins-gate/images/a/af/PhoneWave_Anime.png/).
